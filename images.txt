@@ -4,3 +4,5 @@ php:7.4-fpm
 php:7.3.17-fpm
 mysql:8.0.18
 redis:5.0.7
+mongo:4.2.2
+pgvector/pgvector:v0.4.4
