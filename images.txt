@@ -7,3 +7,4 @@ redis:5.0.7
 mongo:4.2.2
 postgres:15-bookworm
 postgres:15-alpine
+debian:bullseye-slim
